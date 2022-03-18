@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ümit</h1>
 <h3 align="center">A computer engineer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/umitsayin](https://github.com/umitsayin)
 
 - 📫 How to reach me **umitsayin1661@gmail.com**
 
